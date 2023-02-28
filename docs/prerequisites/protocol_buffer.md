@@ -57,7 +57,7 @@ Protocol Buffers is designed for high performance and efficiency. The binary for
 
 Here's an example of a simple message definition in Protocol Buffers:
 
-```proto
+```protobuf
 syntax = "proto3";
 
 message Person {
@@ -71,7 +71,7 @@ In this example, we define a `Person` message with three fields: `name`, `age`, 
 
 To generate Go code for this message, we can use the Protocol Buffers compiler (`protoc`) to generate Go-specific code. Here's an example of how to generate code for the `Person` message in Go:
 
-```sh
+```bash
 $ protoc --go_out=. person.proto
 ```
 

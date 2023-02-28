@@ -1,7 +1,7 @@
 ---
 id: grpc
-title: Grpc
-sidebar_label: Grpc
+title: gRPC
+sidebar_label: gRPC
 sidebar_position: 3
 ---
 
@@ -63,7 +63,7 @@ Overall, gRPC is an ideal choice for building cloud-native applications due to i
 
 ### Resources
 
-- The official gRPC documentation: [https://grpc.io/docs/](https://grpc.io/docs/)
-- The gRPC GitHub repository: [https://github.com/grpc/grpc](https://github.com/grpc/grpc)
-- A free course on building cloud-native applications with gRPC: [https://www.udemy.com/course/grpc-golang/](https://www.udemy.com/course/grpc-golang/)
-- The Istio documentation on integrating gRPC services: [https://istio.io/latest/docs/tasks/traffic-management/grpc-to-http/](https://istio.io/latest/docs/tasks/traffic-management/grpc-to-http/)
+- [The official gRPC documentation](https://grpc.io/docs/)
+- [The gRPC GitHub repository](https://github.com/grpc/grpc)
+- [A free course on building cloud-native applications with gRPC](https://www.udemy.com/course/grpc-golang/)
+- [The Istio documentation on integrating gRPC services](https://istio.io/latest/docs/tasks/traffic-management/grpc-to-http/)

@@ -75,10 +75,10 @@ Scalability: Bazel is designed to work with large-scale software projects with c
 
 Cross-language support: Protocol Buffer messages can be generated in a variety of programming languages, and Bazel supports building projects in multiple languages. This means you can use Bazel to build and manage projects that involve multiple languages and platforms.
 
-## Resource References
+## References
 
-- Bazel Build System. (n.d.). Bazel. Retrieved November 30, 2021, from https://bazel.build/
-- Bazel Build System. (2021). Bazel Documentation. Retrieved November 30, 2021, from https://docs.bazel.build/
+- [Bazel Build System. (n.d.). Bazel. Retrieved November 30, 2021](https://bazel.build/)
+- [Bazel Build System. (2021). Bazel Documentation. Retrieved November 30, 2021](https://docs.bazel.build/)
 
 
 
