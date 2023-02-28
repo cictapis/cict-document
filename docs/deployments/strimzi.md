@@ -82,5 +82,3 @@ Strimzi provides a way to run Apache Kafka on Kubernetes using Kubernetes custom
 
 - [Strimzi website](https://strimzi.io/)
 - [Strimzi GitHub repository](https://github.com/strimzi/strimzi-kafka-operator)
-
-
