@@ -14,28 +14,25 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The CICT system was designed with ease-of-use in mind. Whether you're a seasoned developer or just starting out, our system is simple to understand and use. We've made it easy to navigate, with clear instructions and helpful documentation to guide you every step of the way.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Secure and Reliable',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Security and reliability are top priorities for us. We've implemented robust measures to ensure that your data is safe and secure at all times. Our system is constantly monitored and updated to stay ahead of potential threats, and we provide 24/7 support to address any issues that may arise.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Flexible and Scalable',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We understand that every business has unique needs and requirements. That's why we've made our system flexible and scalable, so you can tailor it to your specific needs. Whether you're a small startup or a large enterprise, our system can grow and evolve with your business.
       </>
     ),
   },
